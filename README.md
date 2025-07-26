@@ -2,8 +2,8 @@
 
 ## Contributors
 - **Name:** Vikranth Venkateswar
-- **Roll Number:** [Your Roll Number]
-- **Email:** [Your Email]
+- **Roll Number:** G24AI1083
+- **Email:** G24AI1083@iitj.ac.in
 
 ---
 
